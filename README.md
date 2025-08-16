@@ -26,3 +26,5 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
+<img width="1415" height="614" alt="Screenshot 2025-08-16 134901" src="https://github.com/user-attachments/assets/a2834dcf-6894-45d2-afd2-398787bfeb36" />
+
