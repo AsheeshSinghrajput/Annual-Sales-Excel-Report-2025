@@ -16,4 +16,4 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 - Highest selling category?
 - Percentage of total orders delivered.
 
-- Dashboard Interaction <a href="https://github.com/AsheeshSinghrajput/Annual-Sales-Excel-Report-2025/blob/main/Screenshot%202025-08-16%20134901.png" Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/AsheeshSinghrajput/Annual-Sales-Excel-Report-2025/blob/main/Screenshot%202025-08-16%20134901.png">Dashboard</a>
