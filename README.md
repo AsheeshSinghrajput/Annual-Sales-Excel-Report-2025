@@ -17,3 +17,12 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 - Percentage of total orders delivered.
 
 - Dashboard Interaction <a href="https://github.com/AsheeshSinghrajput/Annual-Sales-Excel-Report-2025/blob/main/Screenshot%202025-08-16%20134901.png">Dashboard</a>
+
+## Process
+- Verify for any missing values and anomolies and sort out the same.
+- Made sure data is consistent and clean with respect to data type,data format and values used.
+- Made some additional columns like age to age group to used in Dashboard as questioned asked.
+- Create pivot tables accordig to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
