@@ -7,9 +7,9 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Questions (KPIs)
  - Compare the sales and orders using single chart.
--which month got the highest sales and orders?
--who purchased more -men or women ?
--what are different order status in 2025 ?
+- which month got the highest sales and orders?
+- who purchased more -men or women ?
+- what are different order status in 2025 ?
 - List top 10 states contributing the sales ?
 - Relation between age and gender based on number of orders.
 - which chanel is contrubuting maximum in sales ?
