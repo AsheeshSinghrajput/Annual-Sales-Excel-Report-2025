@@ -6,7 +6,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 -<a href="https://github.com/AsheeshSinghrajput/Annual-Sales-Excel-Report-2025/blob/main/Annual%20sales%20report%202025.xlsx">Dataset</a>
 
 ## Questions (KPIs)
--Compare the sales and orders using single chart.
+ -Compare the sales and orders using single chart.
 -which month got the highest sales and orders?
 -who purchased more -men or women ?
 -what are different order status in 2025 ?
